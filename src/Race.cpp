@@ -9,7 +9,8 @@
 #include <stdio.h>
 #include <iostream>
 #include <string>
-
+///just added to see if it works
+///hope it does
 //Game Speed
 int FPS = 50;
 //Game Track
